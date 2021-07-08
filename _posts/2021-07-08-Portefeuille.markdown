@@ -3,9 +3,13 @@ layout: post
 title:  "Portefeuille - a stock-tracker social network app in Ruby on Rails"
 date:   2021-07-08 14:26:53 -0300
 categories: jekyll update
+comments: true
 ---
 
 ![Finance-tracker](https://res.cloudinary.com/practicaldev/image/fetch/s--XTN9fuI---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxgksaphtiua8n1h2kfn.jpg)
+
+Originally published on DEV.to on June 18th 2021
+[(check this article on DEV)](https://dev.to/egoridi/portefeuille-a-stock-tracker-social-network-app-in-ruby-on-rails-1ico)
 
 I always thought that developing for finance would require mostly C or other compiled, statically typed language, especially for dealing with the incoming data from the stock market. Nevertheless, I have just accomplished a basic skeleton app (sort of an MVP - a Minimum Viable Product) for a social network of stock tracking using only Ruby on Rails.
 
