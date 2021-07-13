@@ -2,7 +2,8 @@
 layout: post
 title:  "Portefeuille - a stock-tracker social network app in Ruby on Rails"
 date:   2021-07-08 14:26:53 -0300
-categories: jekyll update
+categories: projects
+comments: true
 ---
 
 ![Finance-tracker](https://res.cloudinary.com/practicaldev/image/fetch/s--XTN9fuI---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxgksaphtiua8n1h2kfn.jpg)
